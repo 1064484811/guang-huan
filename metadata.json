@@ -1,0 +1,5 @@
+{
+  "name": "AE Particle Ring Replicator",
+  "description": "A 3D particle simulation replicating After Effects CC Particle World and Deep Glow plugins using React Three Fiber.",
+  "requestFramePermissions": []
+}
